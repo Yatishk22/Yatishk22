@@ -1,78 +1,130 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Yatish+Kumar;AI%2FML+Engineer;Generative+AI+Developer;LLMs+%7C+RAG+%7C+Agentic+AI;FastAPI+%7C+LangChain+%7C+Python;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Yatish Kumar</h1>
+
+<h3 align="center">
+Building Production-Ready AI Applications with LLMs, RAG & AI Agents
+</h3>
 
 <p align="center">
-Building intelligent AI applications using Large Language Models, Retrieval-Augmented Generation, AI Agents, and Machine Learning.
+  <img src="https://komarev.com/ghpvc/?username=Yatishk22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 AI/ML Engineer passionate about building real-world AI products
-- 🤖 Working on **Generative AI**, **LLMs**, **RAG Pipelines**, and **AI Agents**
-- 🏥 Experience building AI healthcare assistants and intelligent document processing systems
-- 🌱 Currently exploring **Agentic AI**, **LangGraph**, **Multi-Agent Systems**, **MCP**, and **MLOps**
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, LLMs, RAG, FastAPI, LangChain, Docker**
-- 📫 Reach me at: **yatishappy@gmail.com**
+- 🤖 AI/ML Engineer passionate about building production-ready AI applications.
+- 🏥 Experienced in developing **LLM-powered healthcare assistants**, **RAG systems**, and **Agentic AI workflows**.
+- 💻 Skilled in **Python, FastAPI, LangChain, LangGraph, OpenAI, ChromaDB, Docker, and SQL**.
+- 🌱 Currently exploring **Multi-Agent Systems, MCP, MLOps, and scalable AI architectures**.
+- 💬 Ask me about **LLMs, RAG, AI Agents, FastAPI, Machine Learning, and Prompt Engineering**.
+- 📫 **Email:** **yatishappy@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming
-Python • SQL • Java
+### 💻 Languages
+- Python
+- SQL
 
-### AI / Machine Learning
-Machine Learning • Deep Learning • NLP • Computer Vision • TensorFlow • PyTorch • Scikit-Learn
+### 🤖 AI & Machine Learning
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- TensorFlow
+- PyTorch
+- Scikit-Learn
 
-### Generative AI
-OpenAI • Hugging Face • LangChain • LangGraph • LlamaIndex • RAG • Vector Databases • ChromaDB • FAISS • Prompt Engineering • AI Agents • MCP
+### 🧠 Generative AI
+- OpenAI
+- LangChain
+- LangGraph
+- Hugging Face
+- Retrieval-Augmented Generation (RAG)
+- ChromaDB
+- FAISS
+- Prompt Engineering
+- AI Agents
+- MCP (Model Context Protocol)
 
-### Backend
-FastAPI • REST APIs • Uvicorn • Redis • Celery
+### ⚙️ Backend & APIs
+- FastAPI
+- REST APIs
+- Redis
+- Celery
+- Docker
 
-### Database
-PostgreSQL • MongoDB • MySQL
+### 🗄️ Databases
+- PostgreSQL
+- MongoDB
+- MySQL
 
-### DevOps & Tools
-Git • GitHub • Docker • Linux • VS Code • Postman
+### 🛠️ Tools
+- Git
+- GitHub
+- Linux
+- VS Code
+- Postman
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🏥 HealthTalk
-AI-powered healthcare assistant using LLMs.
+AI-powered healthcare assistant using **LLMs** and **RAG** to answer medical queries and assist users with healthcare-related information.
 
-### 📄 Discharge Summary Agent
-Agentic AI workflow for clinically safe discharge summaries from hospital documents.
-
-### 💬 Python QA Assistant
-RAG-powered intelligent question-answering system using Python documentation.
-
-### 🔄 Natural Language to SQL
-Convert natural language into optimized SQL queries using LLMs.
+**Tech Stack:** Python • FastAPI • LangChain • OpenAI • ChromaDB • Docker
 
 ---
 
-## 🎯 Currently Learning
+### 📄 Discharge Summary Agent
+Agentic AI system that extracts information from hospital documents and generates clinically structured discharge summaries.
 
-- Multi-Agent Systems
-- MCP (Model Context Protocol)
-- Advanced RAG
-- AI Agent Frameworks
-- LLM Fine-Tuning
-- Kubernetes for AI Applications
+**Tech Stack:** Python • LangGraph • OpenAI • FastAPI • Prompt Engineering
+
+---
+
+### 💬 Python QA Assistant
+Retrieval-Augmented Generation (RAG) application that answers Python programming questions using Stack Overflow knowledge.
+
+**Tech Stack:** Python • FastAPI • Hugging Face • ChromaDB • RAG
+
+---
+
+### 🧠 Natural Language to SQL
+LLM-powered application that converts natural language into optimized SQL queries for relational databases.
+
+**Tech Stack:** Python • OpenAI • SQL • FastAPI • Prompt Engineering
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Multi-Agent Systems
+- 🔗 Model Context Protocol (MCP)
+- 🧠 Advanced RAG Architectures
+- ⚡ AI Agent Frameworks
+- 🚀 MLOps & AI Deployment
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/yatish-kumar-755398205/
-- 📧 Email: your-yatishappy@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/yatish-kumar-755398205/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yatishappy@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+---
+
+<p align="center">
+⭐ <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
+</p>
