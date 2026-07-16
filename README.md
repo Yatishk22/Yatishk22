@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yatish Kumar</h1>
-<h3 align="center">AI/ML Engineer | Generative AI | LLMs | RAG | Agentic AI | FastAPI</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Yatish+Kumar;AI%2FML+Engineer;Generative+AI+Developer;LLMs+%7C+RAG+%7C+Agentic+AI;FastAPI+%7C+LangChain+%7C+Python;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
 Building intelligent AI applications using Large Language Models, Retrieval-Augmented Generation, AI Agents, and Machine Learning.
